@@ -1,4 +1,4 @@
-// Problem statement: https://cses.fi/problemset/task/1633
+// Problem statement: https://cses.fi/problemset/task/1634
 // Solution
 
 #include <bits/stdc++.h>
